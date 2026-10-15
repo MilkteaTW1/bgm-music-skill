@@ -1,0 +1,15 @@
+{
+  "name": "bgm-music-demo",
+  "private": true,
+  "scripts": {
+    "audio": "python make_audio.py",
+    "render": "remotion render src/index.ts Demo ../demo/demo.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.535",
+    "gsap": "^3.15.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.535"
+  }
+}

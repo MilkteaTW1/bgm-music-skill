@@ -1,0 +1,54 @@
+{
+ "moods": [
+  {
+   "mood": "uplifting",
+   "bpm": 123,
+   "key": "C major",
+   "score": 98.8
+  },
+  {
+   "mood": "corporate",
+   "bpm": 109,
+   "key": "G major",
+   "score": 97.2
+  },
+  {
+   "mood": "playful",
+   "bpm": 123,
+   "key": "C major",
+   "score": 98.5
+  },
+  {
+   "mood": "lofi",
+   "bpm": 82,
+   "key": "D dorian",
+   "score": 97.4
+  },
+  {
+   "mood": "calm",
+   "bpm": 68,
+   "key": "F major",
+   "score": 96.9
+  },
+  {
+   "mood": "ambient",
+   "bpm": 55,
+   "key": "A lydian",
+   "score": 90.9
+  },
+  {
+   "mood": "cinematic",
+   "bpm": 82,
+   "key": "D minor",
+   "score": 98.3
+  },
+  {
+   "mood": "tense",
+   "bpm": 95,
+   "key": "E phrygian",
+   "score": 97.4
+  }
+ ],
+ "frames": 1680,
+ "seconds": 56.0
+}

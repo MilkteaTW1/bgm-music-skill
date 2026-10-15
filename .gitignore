@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+node_modules/
+out/
+*.bgm-backup
+.selftest.wav
+demo-src/public/
